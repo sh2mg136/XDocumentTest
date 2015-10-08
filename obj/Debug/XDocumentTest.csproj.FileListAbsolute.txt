@@ -1,0 +1,18 @@
+c:\users\maxx\documents\visual studio 2012\Projects\XDocumentTest\XDocumentTest\bin\Debug\XDocumentTest.exe.config
+c:\users\maxx\documents\visual studio 2012\Projects\XDocumentTest\XDocumentTest\bin\Debug\XDocumentTest.exe
+c:\users\maxx\documents\visual studio 2012\Projects\XDocumentTest\XDocumentTest\bin\Debug\XDocumentTest.pdb
+c:\users\maxx\documents\visual studio 2012\Projects\XDocumentTest\XDocumentTest\obj\Debug\XDocumentTest.csprojResolveAssemblyReference.cache
+c:\users\maxx\documents\visual studio 2012\Projects\XDocumentTest\XDocumentTest\obj\Debug\XDocumentTest.Form1.resources
+c:\users\maxx\documents\visual studio 2012\Projects\XDocumentTest\XDocumentTest\obj\Debug\XDocumentTest.Properties.Resources.resources
+c:\users\maxx\documents\visual studio 2012\Projects\XDocumentTest\XDocumentTest\obj\Debug\XDocumentTest.csproj.GenerateResource.Cache
+c:\users\maxx\documents\visual studio 2012\Projects\XDocumentTest\XDocumentTest\obj\Debug\XDocumentTest.exe
+c:\users\maxx\documents\visual studio 2012\Projects\XDocumentTest\XDocumentTest\obj\Debug\XDocumentTest.pdb
+D:\projects\TestApp2012\XDocumentTest\XDocumentTest\bin\Debug\XDocumentTest.exe.config
+D:\projects\TestApp2012\XDocumentTest\XDocumentTest\obj\Debug\XDocumentTest.exe
+D:\projects\TestApp2012\XDocumentTest\XDocumentTest\obj\Debug\XDocumentTest.pdb
+D:\projects\TestApp2012\XDocumentTest\XDocumentTest\bin\Debug\XDocumentTest.exe
+D:\projects\TestApp2012\XDocumentTest\XDocumentTest\bin\Debug\XDocumentTest.pdb
+D:\projects\TestApp2012\XDocumentTest\XDocumentTest\obj\Debug\XDocumentTest.csprojResolveAssemblyReference.cache
+D:\projects\TestApp2012\XDocumentTest\XDocumentTest\obj\Debug\XDocumentTest.Form1.resources
+D:\projects\TestApp2012\XDocumentTest\XDocumentTest\obj\Debug\XDocumentTest.Properties.Resources.resources
+D:\projects\TestApp2012\XDocumentTest\XDocumentTest\obj\Debug\XDocumentTest.csproj.GenerateResource.Cache
