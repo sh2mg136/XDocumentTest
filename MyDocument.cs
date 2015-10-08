@@ -7,6 +7,9 @@ using System.Threading.Tasks;
 namespace XDocumentTest
 {
 
+    /// <summary>
+    /// MyMessage
+    /// </summary>
     public struct MyMessage
     {
 
